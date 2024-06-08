@@ -1,17 +1,11 @@
 # Matematica_com_Python
-O objetivo principal desse repositório é o despertar pela programação utilizando a linguagem Python para resolução de problemas matemáticos. A estrutura desse repositório é apresentada da seguinte forma:
 
-Capítulos de exemplos: terão exemplos dos mais variados problemas matemáticos, logo, basta que você localize o assunto em questão e leia os comentários.
-Capítulos de exercícios: terão exercícios matemáticos resolvidos com scripts em Python.
-Observação: os scripts apresentados aqui não significa que são as melhores maneiras de resolver os problemas. É evidente que um problema pode apresentar inúmeras estruturas de código, por exemplo, a resolução de um problema sem a necessidade de importar uma biblioteca.
-Como referência para o desenvolvimento deste repositório, estou utilizando o livro "Matemática para o ensino médio - volume único"
+Ao estudar e aprender matemática, os alunos se deparam com uma vastidão de conceitos que envolvem símbolos, onde se faz necessário ter uma aptidão na leitura e compreensão desses, estabelecendo, assim, uma relação entre as simbologias e a linguagem natural. Dessa forma, o desenvolvimento do conhecimento matemático é, intrinsecamente, agregado ao domínio da interpretação dessa linguagem matemática. De acordo com (LORENSATTI, 2009, p.90):
 
-Referências:
+"A linguagem matemática pode ser definida como um sistema simbólico, com símbolos próprios que se relacionam segundo determinadas regras. Esse conjunto de símbolos e regras deve ser entendido pela comunidade que o utiliza. A apropriação desse conhecimento é indissociável do processo de construção do conhecimento matemático". 
 
-Matemática para ensino médio volume único
-Marcondes, Carlos Alberto;
-Gentil, Nelson;
-Emílio, Sergio
+De maneira similar, ao estudar, aprender e desenvolver programação, o programador se depara com uma linguagem computacional própria ao escrever códigos que estruturam seus elementos e suas regras para o desenvolvimento de um software. Pode-se dizer que programar é o ato de construir um programa com um conjunto de instruções precisas, dizendo a um computador o que fazer; dessa forma, pode-se dizer, também, que uma linguagem de programação é uma linguagem construída artificialmente, usada para instruir computadores (HAVERBEKE, 2018). A Linguagem de Programação é, portanto, uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas e softwares. Reforçando esse conceito, (CARNEIRO et al., 2022, p.6) define que:
 
-ISBN: 85 08 007085 3
-2000
+"Entende-se por linguagem de programação ao conjunto de regras sintáticas definidas pelo usuário e que devem ser executadas pelo computador para a realização de tarefas, por exemplo, a solução numérica de problemas matemáticos ou aquisição de medidas de experimentos em laboratório". 
+
+Dessa maneira, como a programação está diretamente ligada com uma sequência lógica de símbolos e regras que tem o intuito de executar uma ação de forma objetiva, pode-se então perceber sua correlação com a matemática. Pois, o ato de programar se baseia na seleção e execução de um conjunto de ações que são formuladas previamente para atingir um determinado objetivo, o que se alinha com o trato da linguagem matemática de usar conceitos lógicos para selecionar caminhos e tomar decisões para resolução de problemas.
